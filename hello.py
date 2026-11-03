@@ -1,1 +1,1 @@
-print ( "HEllo this is my first code !") 
+print ( "Welcome to git and github fundamentals Workshop!") 
